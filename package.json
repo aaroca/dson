@@ -1,5 +1,5 @@
 {
-  "name": "dson",
+  "name": "@aaroca/dson",
   "version": "1.0.0",
   "description": "Read json files allowing add comments on it",
   "main": "index.js",
