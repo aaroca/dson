@@ -25,16 +25,16 @@ Read json files allowing comments on it
 
 # usage
 
-Just add the npm packge (publishing in progress...)
+Just add the npm packge
 
 ```
-npm install --save dson
+npm install --save @aaroca/dson
 ```
 
 Add to your js file as usual and call the load method
 
 ```
-var dson = require('dson');
+var dson = require('@aaroca/dson');
 
 var dummy = dson.load('./commentedDummy.json');
 ```
