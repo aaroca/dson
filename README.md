@@ -7,16 +7,19 @@ Read json files allowing comments on it
 	 * Name of the person
 	 */
 	"name": "alvaro",
+	
 	/**
 	 * Age of the person
 	 */
 	"age": 28,
+	
 	/**
 	 * Pets of the person
 	 */
 	"pet": {
 		/** Pet name */
 		"name": "batman",
+		
 		/** Pet age */
 		"age": 1
 	}
