@@ -2,7 +2,7 @@
   "name": "dson",
   "version": "1.0.0",
   "description": "Read json files allowing add comments on it",
-  "main": "dson.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
