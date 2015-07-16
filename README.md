@@ -1,5 +1,5 @@
 # dson
-Read json files allowing add comments on it
+Read json files allowing comments on it
 
 ```
 {
